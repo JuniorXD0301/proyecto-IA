@@ -1,3 +1,3 @@
 # Proyecto-IA
 Proyecto IA- UIS
-![](Banner.jpeg){width=800 height=300}
+![](Banner.jpeg){width='800px' height='300px'}
