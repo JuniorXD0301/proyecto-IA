@@ -15,4 +15,4 @@ Jorge Andrés Cárdenas Parada, Daniel Santiago Torres Salcedo, Isnardo Corredor
 Decission Tree Classifier, Random Forest Classifier
 ###### Dataset: [Heart Disease prediction](https://www.kaggle.com/lakhankumawat/heart-disease-prediction/data)
 
-###### Vídeo: [Sistema de prevención de pacientes con ataques cardíacos].(https://youtu.be/CUE0fPpSgb4)
+###### Vídeo: [Sistema de prevención de pacientes con ataques cardíacos](https://youtu.be/CUE0fPpSgb4)
