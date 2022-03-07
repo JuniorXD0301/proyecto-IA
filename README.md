@@ -16,3 +16,5 @@ Decission Tree Classifier, Random Forest Classifier
 ###### Dataset: [Heart Disease prediction](https://www.kaggle.com/lakhankumawat/heart-disease-prediction/data)
 
 ###### Vídeo: [Sistema de prevención de pacientes con ataques cardíacos](https://youtu.be/CUE0fPpSgb4)
+
+###### Presentación: [Diapositivas](https://docs.google.com/presentation/d/1ZFn5Ys2NToo2KTUyK9n3nXwlZRJklUmD/edit?usp=sharing&ouid=107419891510606480799&rtpof=true&sd=true)
